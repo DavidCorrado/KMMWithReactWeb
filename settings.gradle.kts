@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "KMMWithReactWeb"
 include(":androidApp")
+include(":webApp")
 include(":shared")
